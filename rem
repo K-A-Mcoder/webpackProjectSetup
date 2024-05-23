@@ -1,0 +1,4 @@
+create a webpack config file for webpack 5.x that will work for my folder structure which is 
+in src is the main, and in it, has assets(scss, js), data`This is where i will store my data.json file `,
+html(This is where i store my html files for the site),partials (this is where i intend to store my partials files 
+for use global in my html files) and also should auto refresh/compile wen i make changes in my files
